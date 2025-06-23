@@ -1,0 +1,23 @@
+properties:
+
+numero: Parcel number.
+
+feuille: Sheet number (map tile reference).
+
+section: Parcel section code.
+
+code_dep: Department code (e.g., "75" for Paris).
+
+code_com: Commune code (municipality).
+
+com_abs: Name or abbreviation of the commune.
+
+echelle: Map scale used for the parcel.
+
+code_arr: Arrondissement code (if applicable).
+
+geometry:
+
+type: The geometry type (e.g., "Point").
+
+coordinates: Geographic coordinates of the parcel (longitude and latitude).
